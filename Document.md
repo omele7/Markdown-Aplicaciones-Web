@@ -130,6 +130,15 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5.2.1.6.)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
+   5.2.2. [Sprint 2](#5.2.2.)<br>
+   5.2.2.1. [Sprint Planning 2](#5.2.2.1.)<br>
+   5.2.2.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+   5.2.2.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+   5.2.2.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+   5.2.2.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+   5.2.2.6. [Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
+   5.2.2.7. [Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
+   5.2.2.8. [Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
@@ -1377,6 +1386,13 @@ Link: Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/ed
 
 </div>
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+Link del prototipo: https://www.figma.com/proto/VVRIvZgSl1WPhbla6bDxa9/Web-Application-TelaSecure?page-id=11%3A71&node-id=11-72&node-type=canvas&viewport=936%2C720%2C0.42&t=CXtQFW4bwsyIOSbM-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11%3A72
+
+<p align="center">
+  <img src="resources/prototype.png">
+</p>
+
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
@@ -1792,6 +1808,71 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073540178346034/image.png?ex=66de0787&is=66dcb607&hm=cd9be1ea17d72a028018eeced12e269ddd1ccf254a1462bf7c50dc81d6174fc0&">
 
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
+
+5.2.2. Sprint 2
+5.2.2.1. Sprint Planning 2.
+5.2.2.2. Sprint Backlog 2.
+5.2.2.3. Development Evidence for Sprint Review.
+5.2.2.4. Testing Suite Evidence for Sprint Review.
+5.2.2.5. Execution Evidence for Sprint Review.
+5.2.2.6. Services Documentation Evidence for Sprint Review.
+5.2.2.7. Software Deployment Evidence for Sprint Review.
+5.2.2.8. Team Collaboration Insights during Sprint
+
+<div id='5.2.2.'><h3> 5.2.2. Sprint 2</h3></div>
+<div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2</h4></div>
+
+| Sprint #                        | Sprint 2                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 2                                                                                                                                       |
+| Fecha                            | 23/09/2024                                                                                                                                    |
+| Hora                             | 12:00 AM                                                                                                                                       |
+| Lugar                            | Discord (Reunión virtual)                                                                                                                      |
+| Preparado por                    | Godofredo Quispe Tipo                                                                                                                          |
+| Asistentes (reunión de planificación) | Diego Rolin Acuña Tomas, Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva, Godofredo Quispe Tipo            |
+| Sprint Goal & User Stories       |                                                                                                                                                |
+| Sprint 2 Goal                    | Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US001(3 puntos), <br>-US003 (3 puntos), <br>-US00 (2 puntos), <br>-US002(2 puntos), <br>-US004(5 puntos), <br>-US009: (3 puntos) |
+| Sum of story points             | 18                                                                                                                                             |
+
+<div id='5.2.2.2.'><h4> 5.2.2.2. Sprint Backlog 2</h4></div>
+
+| Sprint #       | Sprint 2 | | | | | | |
+| -------------- | -------- | - | - | - | - | - | - |
+| **User<br>Story** | | **Work-Item /Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do /InProcess / To-Review /Done)** |
+| **ID**         | **Title** | **ID** | **Title** | **Description** | | |
+| US01 | Registro de telas de inventario | TA001 | Añadir telas al inventario |Facilitar el añadir telas al inventario por parte del usuario| 3 horas | John Arevalo| InProcess |
+| US02 | Actualizacion de cantidad de telas | TA002 | Editar cantidad de telas |Facilitar el poder editar y actualizar la cantidad de telas| 2 horas |Valentino Sandoval| InProcess |
+| US03 | Configuracion de alertas de temperatura | TA003 | Añadir alertas a ciertas temperaturas |Agregar la función de emitir alertasa dependiendo de la temperatura máxima o mínima del almacen, escogida por el usuario| 4 horas | Diego Cabrera| InProcess |
+| US04 | Visualización en tiempo real de condiciones ambientales | TA004 | Añadir apartado para visualizar la temperatura en tiempo real de los almacenes |Agregar apartado para visualizar la temperatura de los diferentes almacenes registrados| 3 horas | Diego Acuña| InProcess |
+| US08 | Registro de tipo de tela | TA005 | Añadir tipos/categorias de tela inventario |Facilitar el añadir diferentes tipos de telas por parte del usuario| 2 horas | Godofredo Quispe| InProcess |
+| US09 | Agregado de áreas del almacen | TA006 | Añadir diferentes areas a los almacenes |Facilitar la distribucion en los almacenes al divir estos en secciones| 2 horas | Valentino Sandoval| InProcess |
+| US15 | Alerta de mantenimiento del almacén | TA007 | Recibe informes periódicos sobre la actividad de detección de plagas |Generación automática de informes y ausencia de actividad de plagas.| 4 horas | John Arévalo| InProcess |
+| US30 | Informes periódicos de detección de plagas | TA008 |Generar reportes detallados sobre el estado del inventario y las condiciones ambientales |Generación de reporte de inventario y generación de reporte de condiciones ambientales| 4 horas | Diego Cabrera| InProcess |
+
+
+<div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
+<div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	|75c0c75| Initial commit| Initial commit |25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6548432   | feature: added US01 gherkin  | feature: added US01 gherkin  | 25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	|a19b6ac |feature: added US02 gherkin|feature: added US02 gherkin | 25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 29ca9f3 |feature: added US03 gherkin|feature: added US03 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 7fe8f1f   | feature: added US04 gherkin | feature: added US04 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6e41532 | feature: added US05 gherkin | feature: added US05 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6e41532 | feature: added US056 gherkin | feature: added US06 gherkin | 24/09/2024              |
+
+
+Link del repositorio Commints: https://github.com/si730-2402-ws53-WebApplications/Testing.git
+
+<div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+<div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+<div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+<div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
