@@ -1868,8 +1868,28 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 Link del repositorio Commints: https://github.com/si730-2402-ws53-WebApplications/Testing.git
 
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+
+Durante este segundo sprint los miembros del equipo desarrollamos la aplicacion web con ayuda de Vue, Prime Vue, entre otras herramientas. Teniendo en cuenta centrarnos en la parte principal del proyecto.
+
+<p align="center">
+  <img src="resources/appweb-evidence.png">
+  <br>
+  <img src="resources/appweb-evidence2.png">
+</p>
+
 <div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
 <div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+Se realizó el deployment en github pages del apartado principal de la apicación web TelaSecure, que es todo lo relacionado a la gestión de inventarios.
+
+Link: https://si730-2402-ws53-webapplications.github.io/weaveguard-frontend/
+
+<p align="center">
+  <img src="resources/appweb-evidence.png">
+  <br>
+  <img src="resources/appweb-evidence2.png">
+</p>
+
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
 
 
