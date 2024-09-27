@@ -1380,26 +1380,41 @@ Link: Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/ed
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931283773132841/structurizr-94941-SystemContext-001.png?ex=66dd830b&is=66dc318b&hm=9e911dca070e782b12c122b9b53496cbdb8d41aa14aaefb05b05606df31b31ed&">
+<img src="resources/softwareContext1.png">
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931284251148368/structurizr-94941-SystemContext-001-key.png?ex=66dd830b&is=66dc318b&hm=9bfb0951a69e8d61f42e99014dff0fbdd05c343a0ad3525140303b39abcc88c2&">
+<img src="resources/softwareContext2.png">
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931336470499398/structurizr-94941-Container-001.png?ex=66dd8317&is=66dc3197&hm=18e843e898f349ea4ef873e011b195ccaddbffbceac0a853317123eb28bdcbe6&">
+En el presente diagrama de contenedores, se ha decidido realizar una arquitectura monolítica modular en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. 
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931335853805661/structurizr-94941-Container-001-key.png?ex=66dd8317&is=66dc3197&hm=b26056e76380ff36ba3e548186db4e38f29f2a0135e51d8c559809579b669f3d&">
+<img src="resources/softwareContainer1.png">
+
+<img src="resources/softwareContainer2.png">
 
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931381097762816/structurizr-94941-Component-001.png?ex=66dd8322&is=66dc31a2&hm=75441e94174d39ef3b370c04fa183509e1b5317d185b2585c931983e8b22cbbe&">
+Los componentes del sistema siguen el patrón de arquitectura en capas, organizados en cinco áreas funcionales principales: Sistema de inicio de sesión (Login Service), manejo del inventario (Inventory Management), control de la temperatura (Temperature Management). Cada área está estructurada en capas que separan las responsabilidades de la lógica de presentación, la lógica de negocio, y el acceso a datos. Esta organización en capas facilita la escalabilidad, el desarrollo independiente, y la reutilización de código; de esta forma se garantiza que cada área del sistema maneje sus propias reglas de negocio y operaciones de manera eficiente.
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281931380758020168/structurizr-94941-Component-001-key.png?ex=66dd8322&is=66dc31a2&hm=9bd09dafeddbf09a1430cc1527ec771aec86eaf69011f24b63d16f72ab974585&">
+**Login Service**
+
+<img src="resources/softwareComponent1.png">
+<img src="resources/softwareComponent1.1.png">
+
+**Inventory Managment**
+
+<img src="resources/softwareComponent2.png">
+<img src="resources/softwareComponent2.1.png">
+
+**Temperature Management**
+
+<img src="resources/softwareComponent3.png">
+<img src="resources/softwareComponent3.1.png">
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="https://media.discordapp.net/attachments/1275939655635959848/1281866041189859359/image.png?ex=66dd4648&is=66dbf4c8&hm=031c4123ac1afc5a02c5c9095342c91def8b3add9a571b1a5273889e38bf9c1a&=&format=webp&quality=lossless&width=682&height=476">
+<img src="resources/classdiagram.png">
 
 <div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
 
@@ -1433,7 +1448,7 @@ Link: Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/ed
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
 
-<img src="https://media.discordapp.net/attachments/1275939655635959848/1281871050002661386/image.png?ex=66dd4af2&is=66dbf972&hm=6e02c250921492271b3b89ed21f669983491b409542fdeec787287fcc945c03d&=&format=webp&quality=lossless&width=835&height=416">
+<img src="resources/dataClass.png">
 
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
