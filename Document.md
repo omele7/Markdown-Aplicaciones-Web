@@ -644,10 +644,10 @@ En este apartado, se presenta una matriz de tareas que resume las actividades di
 A continuacion se presentran los User Journey Mapping.
 
 SEGMENTO DISTRINUIDORES DE TELAS: Aquí para el segmento de distribuidores de telas se presenta el viaje del usuario
-<img src="resources/mapping1.png"/>
+[![Carlos-journey-map.png](https://i.postimg.cc/CKZ8s8qm/Carlos-journey-map.png)](https://postimg.cc/KK24ZRQM)
 
 SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el segmento de encargados del inventario de empresas de confección. se presenta el viaje del usuario
-<img src="resources/mapping2.png"/>
+[![Juan-Rivera-journey-map.png](https://i.postimg.cc/SQGn8dPm/Juan-Rivera-journey-map.png)](https://postimg.cc/rzKy21cH)
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
