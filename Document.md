@@ -608,10 +608,10 @@ Si bien Owen y Paco han utilizado tecnología avanzada, como sensores y software
 En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, DISTRIBUIDOR DE TELAS y ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN. A contunuación se presentra los user person:
 
 **DISTRIBUIDOR DE TELAS:**
-<img src="resources/userpersona!.png"/>
+[![Carlos-Rios-Flores-Distribuirdor.png](https://i.postimg.cc/SK5WBdhB/Carlos-Rios-Flores-Distribuirdor.png)](https://postimg.cc/R376fcqd)
 
 **ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN:**
-<img src="resources/userpersona2.png"/>
+[![Juan-Rivera-Fuentes.png](https://i.postimg.cc/kgY8SsB2/Juan-Rivera-Fuentes.png)](https://postimg.cc/jDNL0z6T)
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
