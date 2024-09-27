@@ -1921,4 +1921,4 @@ Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view
 
 Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
 
-Enlace para el vídeo de exposición: [https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing](https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing)
+Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF)
